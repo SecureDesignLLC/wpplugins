@@ -1,0 +1,2 @@
+# wpplugins
+WPplugin_test
